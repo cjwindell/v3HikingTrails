@@ -1,0 +1,41 @@
+body {
+	background-color: #C4DACF;
+}
+
+h1 {
+	color: #4A5759;
+	text-align: center;
+	font-family: 'Amatic SC', cursive;
+	padding: 20px;
+	font-size: 50px;
+}
+
+p, li, a {
+	font-family: verdana;
+	font-size: 18px;
+}
+
+img {
+	border: 5px solid #4A5759;
+    border-radius: 10%;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 60%;
+}
+
+.top, .bottom {
+	background-color: #85a18e;
+	width: auto;
+	height: 100px;
+}
+
+li {
+	list-style-type: none;
+	display: inline-block;
+	padding: 40px;
+	margin-left: 50px;
+}
